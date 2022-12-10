@@ -1,0 +1,11 @@
+﻿NO,First name,Last Name,Email Address,Phone Number,Home Address,Rental List
+1,Anna,Smith,ana@gmail.com,2055332453,808 20th St S Birmingham AL 35205,1;5;3
+2,Jassica,Johonson,jj231@yahoo.com,7021251223,3355 S Las Vegas Blvd Las Vegas NV 89109,4
+3,Jack,Taylor,tay55@gmail.com,6105497564,31 S 19th St Philadelphia PA 19103-3718,
+4,Anna,Davies,petlover@gmail.com,3125541694,166 E Superior St Chicago IL 60611,11;12
+5,Charlie,Wilson,ccwl@uab.edu,2051984354,1023 20th St S Birmingham AL 35205,
+6,Olivia,Evans,oligood@hotmail.com,2134987651,416 W 8th St Los Angeles CA 90014,13
+7,Isla,Thomas,goodbookkiller@gmail.com,7324987654,3 Tower Center Blvd East Brunswick NJ 08816,
+8,William,O'Neill,willonail@yahoo.com,9076453157,1000 Arlberg Ave Girdwood AK 99587,6;10
+9,Tracy,Millers,tracygod@uab.edu,2058867564,1820 5th Ave S Birmingham AL 35233,
+10,Sophie,Brown,sophicate@hotmail.com,5124697564,800 Sorella Ct Houston TX 77024,15
